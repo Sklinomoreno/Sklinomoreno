@@ -7,10 +7,12 @@
 ---
 
 ## 🚀 Habilidades
-- **Análisis de Datos & BI:** Python, SQL, Power BI, Excel  
-- **Machine Learning:** Modelos predictivos y de clasificación, optimización de procesos con IA  
-- **Metodologías Lean:** TPM, SMED, 5S, Kaizen, estandarización  
-- **Indicadores Operativos:** OEE, FPY (First Pass Yield), tasa de scrap, takt time, MTBF/MTTR  
+- **Análisis de Datos & BI:** Python, SQL y Excel  
+- **Machine Learning:** Modelos predictivos y de clasificación, optimización de procesos con IA y análisis de desempeño de modelos  
+- **Visualización de Datos:** Power BI y Looker Studio 
+- **Bases de Datos:** MySQL y manejo de datos en la nube con Google BigQuery  
+- **Gestión de Proyectos:** Metodologías ágiles (Scrum y Kanban) y mejora continua  
+- **Herramientas de Productividad:** Git/GitHub y Notion
 
 ---
 
