@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí
 👋 ¡Hola! Soy **Smith Eusebio Lino Moreno**  
 🎓 Egresado de Ingeniería Industrial | 📊 Data Analytics & Business Intelligence | 💻 Machine Learning Enthusiast  
 
