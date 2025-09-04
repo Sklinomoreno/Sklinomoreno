@@ -54,7 +54,7 @@ Mi objetivo es combinar la ingeniería industrial con la analítica de datos par
 
 ## 🌍 Idiomas
 - Español: Nativo  
-- Inglés: Intermedio (lectura y escritura técnica)  
+- Inglés: B2+ (lectura, escritura y comunicación técnica) 
 
 ---
 
