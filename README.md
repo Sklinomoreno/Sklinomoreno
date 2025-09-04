@@ -48,11 +48,12 @@ Mi objetivo es combinar la **ingeniería industrial** con la **analítica de dat
 ---
 
 ## 📊 GitHub Stats:
-![Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=slino-moreno&show_icons=true&theme=highcontrast&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slino-moreno&layout=compact&theme=highcontrast&hide_border=true)  
+![Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sklinomoreno&show_icons=true&theme=highcontrast&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sklinomoreno&layout=compact&theme=highcontrast&hide_border=true)  
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=slino-moreno&theme=onedark&no-frame=true&no-bg=true&margin-w=4)  
+![trophy](https://github-profile-trophy.vercel.app/?username=Sklinomoreno&theme=onedark&no-frame=true&no-bg=true&margin-w=4)  
+
 
