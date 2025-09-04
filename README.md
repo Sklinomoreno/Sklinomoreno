@@ -26,34 +26,37 @@ Mi objetivo es combinar la **ingeniería industrial** con la **analítica de dat
 
 ---
 
+## 📌 Proyectos Destacados
+- [Predicción de Churn en Tarjetas de Crédito](https://github.com/Sklinomoreno/churn-creditcards)  
+  Implementación de modelos de **Machine Learning** para predecir la deserción de clientes en tarjetas de crédito. Incluye análisis exploratorio, balanceo de datos y comparativa de modelos.
+
+- [Optimización de OEE en la Industria Plástica](https://doi.org/10.3390/su17167445)  
+  Caso de estudio donde se aplican **TPM, SMED y Machine Learning** para mejorar la eficiencia operativa en una planta de envases plásticos.  
+
+---
+
+## 📖 Publicaciones
+- *Enhancement of Operational Efficiency in a Plastic Manufacturing Industry Through TPM, SMED, and Machine Learning—Case Study.*  
+  Publicado en **Sustainability (MDPI), 2025**.  
+  👉 [Ver artículo](https://doi.org/10.3390/su17167445)  
+
+---
+
+## 🛠️ Áreas de Interés
+- Analítica de Datos aplicada a procesos productivos  
+- Optimización industrial y reducción de desperdicios  
+- Machine Learning para predicción y control de calidad  
+- Business Intelligence para toma de decisiones  
+
+---
+
+## 🌍 Idiomas
+- Español: Nativo  
+- Inglés: Intermedio (lectura y escritura técnica)  
+
+---
+
 ## 📫 Contacto
 📧 **smlinomoreno@gmail.com**  
 📱 **+51 957 880 520**  
-
----
-
-## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/slino-moreno)  
-
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
-
----
-
-## 📊 GitHub Stats:
-![Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sklinomoreno&show_icons=true&theme=highcontrast&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sklinomoreno&layout=compact&theme=highcontrast&hide_border=true)  
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Sklinomoreno&theme=onedark&no-frame=true&no-bg=true&margin-w=4)  
-
-
+🔗 [LinkedIn](https://www.linkedin.com/in/slino-moreno)  
